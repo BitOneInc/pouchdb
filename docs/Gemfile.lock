@@ -22,7 +22,7 @@ GEM
       sass (~> 3.4)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
-    json (2.1.0)
+    json (2.3.0)
     kramdown (1.16.2)
     liquid (4.0.0)
     listen (3.0.8)
@@ -50,8 +50,8 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-paginate
-  json
+  json (>= 2.3.0)
   redcarpet
 
 BUNDLED WITH
-   1.16.0
+   1.17.3
