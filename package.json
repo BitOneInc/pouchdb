@@ -43,7 +43,7 @@
     "fruitdown": "1.0.2",
     "immediate": "3.0.6",
     "inherits": "2.0.3",
-    "level": "3.0.0",
+    "level": "3.0.2",
     "level-codec": "7.0.1",
     "level-write-stream": "1.0.0",
     "leveldown": "3.0.0",
@@ -58,7 +58,7 @@
     "through2": "2.0.3",
     "uuid": "3.2.1",
     "vuvuzela": "1.0.3",
-    "websql": "0.4.4",
+    "websql": "2.0.0",
     "whatwg-fetch": "2.0.3"
   },
   "devDependencies": {
